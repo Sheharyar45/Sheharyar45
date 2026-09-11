@@ -1,7 +1,7 @@
 <h2 align="center">Hi, I'm Sheharyar 👋</h2>
 
 <p align="center">
-  CS + Statistics @ University of Toronto &nbsp;|&nbsp; Incoming SWE Intern @ StackAdapt &nbsp;|&nbsp; Canadian Citizen
+  CS + Statistics @ University of Toronto &nbsp;|&nbsp; SWE Intern @ Wealthsimple, prev @ StackAdapt &nbsp;|&nbsp; Canadian Citizen
 </p>
 
 <p align="center">

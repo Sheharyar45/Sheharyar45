@@ -33,6 +33,7 @@ I care about systems that scale and code that ships — not just prototype demos
 
 | Project | What it does | Stack |
 |---|---|---|
+| [**Aegis Relay**](https://github.com/Sheharyar45/aegis-relay) | Private agent control plane with durable context, adaptive model/tool routing, approvals, and live execution traces | TypeScript · React · SQLite · MCP · Hermes · Jev |
 | [**DocRAG**](https://github.com/Sheharyar45/DocRAG) | Semantic search + RAG platform — sub-150ms retrieval over 10K+ docs | FastAPI · LangChain · Pinecone · Redis · AWS |
 | [**BrowserBuddy**](https://github.com/Sheharyar45/BrowserBuddy) | AI browser extension for QnA, similarity search & price comparison via MCP agents | LangGraph · FastAPI · React · Python |
 | [**Stockgram**](https://github.com/Sheharyar45/Stockgram) | Stock portfolio tracker + social network, hosted on GCP | Spring Boot · PostgreSQL · Redis · Java |
